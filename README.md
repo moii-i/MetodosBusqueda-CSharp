@@ -113,7 +113,7 @@ Cada método de búsqueda tiene ventajas y desventajas:
 
 ---
 
-**Autor**: \[Tu Nombre Aquí]
+**Autor**: \[Moisés Baños López]
 **Fecha**: Mayo 2025
 **Repositorio**: [https://github.com/tuusuario/MetodosBusqueda-CSharp](https://github.com/tuusuario/MetodosBusqueda-CSharp)
 
