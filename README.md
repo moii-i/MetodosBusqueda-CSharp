@@ -14,7 +14,6 @@ Su propósito es comparar su eficiencia y aplicabilidad dependiendo del tamaño 
 ## 🛠 Instalación y Ejecución
 
 1. Clona el repositorio:
-```bash
 git clone https://github.com/usuario/MetodosBusqueda-CSharp.git
 cd MetodosBusqueda-CSharp
 dotnet run
